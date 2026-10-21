@@ -105,6 +105,7 @@ The **SUPPORT** button exports a `.zip` containing system info, the current log,
 - **Built by:** Ahmed Bahaa
 - **Version:** 3.12.00
 
-## 📄 License   <img width="256" height="256" alt="p2v_icon_256" src="https://github.com/user-attachments/assets/f784f14a-a793-4aa7-87f8-5b357f1c4f55" />
+## 📄 License   
 
 Add your license here.
+<img src="p2v_icon_256.png" alt="P2V" width="256" height="256" style="float:right; width:64px; height:64px; display:inline-block; vertical-align:middle;">
