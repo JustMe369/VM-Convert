@@ -108,5 +108,6 @@ The **SUPPORT** button exports a `.zip` containing system info, the current log,
 ## 📄 License   
 
 
-Add your license here.
+No  license Required.
+
 <img src="https://github.com/user-attachments/assets/e3f4a081-8b9e-4fdc-b7f9-73313f98dbca" alt="P2V" width="256" height="256" style="float:right; width:64px; height:64px; display:inline-block; vertical-align:middle;">
