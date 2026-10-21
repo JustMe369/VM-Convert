@@ -1,0 +1,15 @@
+﻿[
+    {
+        "StartedUtc":  "2026-10-21T09:32:56.1920288Z",
+        "FinishedUtc":  "2026-10-21T09:43:36.2710673Z",
+        "Source":  "D:\\ProxmoxBackup\u0027s\\VMware\\Windows 10 x64.vmdk",
+        "Output":  "D:\\ProxmoxBackup\u0027s\\VMware\\Windows 10 x64.qcow2",
+        "Direction":  "VmToPve",
+        "SourceBytes":  11910119424,
+        "OutputBytes":  11822891008,
+        "DurationSec":  640,
+        "Result":  "SUCCESS",
+        "ExitCode":  0,
+        "ScriptVer":  "3.12.00"
+    }
+]

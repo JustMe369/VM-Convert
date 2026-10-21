@@ -1,7 +1,7 @@
 # VM Converter Pro Elite
 
 **Company:** Codefyhub Technologies  
-**Built by:** AhmedBahaa  
+**Built by:** Ahmed Bahaa  
 **Version:** 3.12.00 (Build 2026-10-21)  
 **Edition:** Production (V26)
 
@@ -106,4 +106,4 @@ The **SUPPORT** button exports a `.zip` containing system info, the current log,
 
 ## 📄 License
 
-No license required.
+Add your license here.
