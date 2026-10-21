@@ -8,6 +8,7 @@
 A Windows PowerShell-based desktop tool for converting virtual machine disk images between **Proxmox** (`.vma.zst` / `.qcow2`) and **VMware** (`.vmdk`), executed through Docker. Available as a GUI application and a headless CLI, and shippable as a single `.exe` (built with PS2EXE using `vm-convert.ico`).
 
 ---
+<img width="1496" height="650" alt="p2v_wide_banner" src="https://github.com/user-attachments/assets/4feb6a30-9b62-4f9d-8016-49a8610e12b0" />
 
 ## ✨ Features
 
